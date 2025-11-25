@@ -42,7 +42,7 @@ Example: wc command is to count data in a given file. -l parameter is for counti
 
 ![task 4](task4.png)
 
-**Explanation** cut grabs age, sort and uniq it. Then check frequency and write down frequency and which age is most freqent.
+**Explanation** cut grabs age and sorted it. uniq -c counts how many times each age appear. Then check frequency and write down frequency and which age is most freqent.
 
 ---
 
